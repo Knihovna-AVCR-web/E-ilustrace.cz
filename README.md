@@ -20,7 +20,7 @@ Tento repozitář obsahuje zdrojový kód pro WordPress šablonu s názvem **iq-
 
 ## Instalace
 
-1. Stáhněte si nebo naklonujte tento repozitář do složky `wp-content/themes`.
+1. Stáhněte si nebo naklonujte tento repozitář do složky `/wp-content/themes`.
    ```sh
    gh repo clone Knihovna-AVCR-web/E-ilustrace.cz
 
