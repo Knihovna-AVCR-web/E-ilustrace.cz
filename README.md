@@ -26,7 +26,7 @@ Tento repozitář obsahuje zdrojový kód pro WordPress šablonu s názvem **iq-
 
 2. Přejděte do adresáře s assety
    ```sh
-   cd /www/wp-content/themes/iq-theme/assets
+   cd /wp-content/themes/iq-theme/assets
 
 3. Spusťte npm script pro buildování assetů:
    ```sh
