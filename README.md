@@ -22,7 +22,7 @@ Tento repozitář obsahuje zdrojový kód pro WordPress šablonu s názvem **iq-
 
 1. Stáhněte si nebo naklonujte tento repozitář do složky `wp-content/themes`.
    ```sh
-   git clone https://github.com/vasuzivatelskyucet/iq-theme.git
+   gh repo clone Knihovna-AVCR-web/E-ilustrace.cz
 
 2. Přejděte do adresáře s assety
    ```sh
@@ -32,7 +32,7 @@ Tento repozitář obsahuje zdrojový kód pro WordPress šablonu s názvem **iq-
    ```sh
    yarn build
 
-4. Vybuilděné assety se objeví ve složce `www/wp-content/themes/iq-theme`. Ty je následně potřebné nahrát do adresáře `/var/www/html/wp-content/themes/iq-theme/dist`.
+4. Vybuilděné assety se objeví ve složce `/wp-content/themes/iq-theme`. Ty je následně potřebné nahrát do adresáře `/wp-content/themes/iq-theme/dist`.
 
 
 5. Promažte obsah temp složky:
