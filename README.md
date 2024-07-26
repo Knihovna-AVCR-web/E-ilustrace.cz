@@ -37,4 +37,4 @@ Tento repozitář obsahuje zdrojový kód pro WordPress šablonu s názvem **iq-
 
 5. Promažte obsah temp složky:
    ```sh
-   rm -rf /var/www/temp/*
+   rm -rf /temp/*
